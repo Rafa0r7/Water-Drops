@@ -41,6 +41,8 @@ section {
     background-color: cyan;
     color: white;
     margin-bottom: 1rem;
+    border: none;
+    cursor: pointer;
 }
 
 #copyright {
