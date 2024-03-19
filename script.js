@@ -7,6 +7,6 @@ function calcular() {
         resul.innerText = ''
     }else{
         let ml = vpeso * 35
-        resul.innerHTML = `A quantidade de água que você deve ingerir é de aproximadamente ${ml}ml  por dia. `
+        resul.innerHTML = `A quantidade de água que você deve ingerir é de pelo menos ${ml}ml por dia. `
     }
 }
